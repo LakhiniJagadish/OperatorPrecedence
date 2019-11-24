@@ -1,3 +1,3 @@
-import Table as T
+import ParseTable as T
 
     
