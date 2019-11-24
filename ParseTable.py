@@ -45,6 +45,7 @@ for i in range(0, 4):
     print(a[i] + "\t", end='')
 print('')
 for i in range(0, 4):
+    print("\n")
     print(a[i] + "\t", end='')
     for j in range(0, 4):
         print(x[i][j] + "\t", end='')
